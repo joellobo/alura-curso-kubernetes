@@ -20,3 +20,8 @@ Nessa aula aprendemos que:
     o Deployment se baseia no Pod e garante o estado desejado
     para receber infos sobre os Pods ou Deployments usamos kubectl get pods ou kubectl get deployments
 
+
+
+
+VirtualBox Command Line:
+VBoxManage list runningvms
